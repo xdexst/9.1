@@ -11,6 +11,8 @@ MainWindow::MainWindow(QWidget *parent)
     timer->start(1000);
 }
 
+
+
 void MainWindow::updateTimer()
 {
     seconds++;
