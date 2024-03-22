@@ -24,4 +24,4 @@ void MainWindow::updateTimer()
                        .arg(minutes, 2, 10, QLatin1Char('0'))
                        .arg(secs, 2, 10, QLatin1Char('0'));
     label->setText(text);
-}
+}//Коммит
