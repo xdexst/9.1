@@ -20,5 +20,4 @@ private:
     QTimer *timer;
     int seconds;
 };
-
 #endif // MAINWINDOW_H
